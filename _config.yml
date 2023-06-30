@@ -1,8 +1,21 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 《梦里山河》游戏
+description: 《梦里山河》游戏策划Wiki
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://mlshproject.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github主页: https://github.com/mlshproject/mlshproject.github.io
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "10.2.3"
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    title: Highlight
+    color: blue

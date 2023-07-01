@@ -1,6 +1,7 @@
 ---
 title: 首页
 layout: home
+nav_order: 0
 ---
 
 # 《梦里山河》游戏策划Wiki

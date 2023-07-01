@@ -1,7 +1,8 @@
 ---
 title: 保姆式SVN安装和使用教程
 layout: default
-nav_order: 1
+child_nav_order: reversed
+parent: 帮助文件
 ---
 
 # 保姆式SVN安装和使用教程

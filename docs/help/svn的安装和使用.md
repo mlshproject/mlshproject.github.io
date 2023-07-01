@@ -19,25 +19,25 @@ Version 1.0
 
 第一步：next
 
-![img](../img/svn的安装/wps2.jpg) 
+![img](../../img/svn的安装/wps2.jpg) 
 
 第二步：next
 
-![img](../img/svn的安装/wps3.jpg) 
+![img](../../img/svn的安装/wps3.jpg) 
 
 **第三步：****勾选command line client tools（选择下拉框第一个）**
 
 然后next
 
-![img](../img/svn的安装/wps4.jpg) 
+![img](../../img/svn的安装/wps4.jpg) 
 
 第四步：install
 
-![img](../img/svn的安装/wps5.jpg) 
+![img](../../img/svn的安装/wps5.jpg) 
 
 第六步：finish
 
-![img](../img/svn的安装/wps6.jpg) 
+![img](../../img/svn的安装/wps6.jpg) 
 
 **安装完毕后记得重启**
 
@@ -53,17 +53,17 @@ Version 1.0
 
 然后右键文件夹，点击SVN Checkout
 
-![img](../img/svn的安装/wps8.jpg) 
+![img](../../img/svn的安装/wps8.jpg) 
 
 在此处输入相关地址（具体地址见第三部分）
 
-![img](../img/svn的安装/wps9.jpg)![img](../img/svn的安装/wps10.jpg) 
+![img](../../img/svn的安装/wps9.jpg)![img](../../img/svn的安装/wps10.jpg) 
 
 然后点击OK
 
 等待拉去完毕后点击OK即可
 
-![img](../img/svn的安装/wps11.jpg) 
+![img](../../img/svn的安装/wps11.jpg) 
 
 ### 2. **【重点】****Update和Commit操作**
 
@@ -85,17 +85,17 @@ Version 1.0
 
 右键想要取新的文件/文件夹，或者右键文件夹中的空白处，点击SVN Update即可取新
 
-![img](../img/svn的安装/wps12.jpg) 
+![img](../../img/svn的安装/wps12.jpg) 
 
 #### 2.2 **Commit操作**
 
 右键想要取新的文件/文件夹，或者右键文件夹中的空白处，点击SVN Commit
 
-![img](../img/svn的安装/wps13.jpg) 
+![img](../../img/svn的安装/wps13.jpg) 
 
 填写上传的内容的备注，勾选你想要上传的文件，点击OK即可上传。
 
-![img](../img/svn的安装/wps14.jpg) 
+![img](../../img/svn的安装/wps14.jpg) 
 
 ## 三、**项目的SVN路径**
 

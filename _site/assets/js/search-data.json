@@ -1,0 +1,79 @@
+{"0": {
+    "doc": "帮助文件",
+    "title": "帮助文件",
+    "content": " ",
+    "url": "/docs/help/",
+    
+    "relUrl": "/docs/help/"
+  },"1": {
+    "doc": "首页",
+    "title": "《梦里山河》游戏策划Wiki",
+    "content": "如果您是从互联网上看到的这篇Wiki，请先了解和阅读相关开源协议。点击Github主页查看相关LICENSE即可查看本Wiki的协议。 . ",
+    "url": "/#%E6%A2%A6%E9%87%8C%E5%B1%B1%E6%B2%B3%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92wiki",
+    
+    "relUrl": "/#梦里山河游戏策划wiki"
+  },"2": {
+    "doc": "首页",
+    "title": "概述",
+    "content": " ",
+    "url": "/#%E6%A6%82%E8%BF%B0",
+    
+    "relUrl": "/#概述"
+  },"3": {
+    "doc": "首页",
+    "title": "项目介绍",
+    "content": "当前进展 . 下一步计划 . ",
+    "url": "/#%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D",
+    
+    "relUrl": "/#项目介绍"
+  },"4": {
+    "doc": "首页",
+    "title": "使用方式",
+    "content": " ",
+    "url": "/#%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F",
+    
+    "relUrl": "/#使用方式"
+  },"5": {
+    "doc": "首页",
+    "title": "首页",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"6": {
+    "doc": "保姆式SVN安装和使用教程",
+    "title": "保姆式SVN安装和使用教程",
+    "content": "喻栉 2023.6.29 . Version 1.0 . ",
+    "url": "/docs/help/svn%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.html",
+    
+    "relUrl": "/docs/help/svn%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.html"
+  },"7": {
+    "doc": "保姆式SVN安装和使用教程",
+    "title": "一、SVN的安装",
+    "content": "双击打开目录下的svn客户端安装文件 . 第一步：next . 第二步：next . 第三步：勾选command line client tools（选择下拉框第一个） . 然后next . 第四步：install . 第六步：finish . 安装完毕后记得重启 . ",
+    "url": "/docs/help/svn%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.html#%E4%B8%80svn%E7%9A%84%E5%AE%89%E8%A3%85",
+    
+    "relUrl": "/docs/help/svn%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.html#一svn的安装"
+  },"8": {
+    "doc": "保姆式SVN安装和使用教程",
+    "title": "二、SVN的使用",
+    "content": "1. 第一步-SVN Checkout（获取项目资源） . 新建一个文件夹，命名随意，建议命名为与功能相关的名字。 . 假设我要同步项目的策划文档，首先新建一个文件夹名为“策划文档” . 然后右键文件夹，点击SVN Checkout . 在此处输入相关地址（具体地址见第三部分） . 然后点击OK . 等待拉去完毕后点击OK即可 . 2. 【重点】Update和Commit操作 . 关键！重中之重！ . 你可以将SVN想象成一个网盘，可以实现文件的远程同步和共享。 . 我们新增/修改/删除了本地的文件后，如果想实现和其他人文件的同步，那么我们就需要Commit到服务器中，其他人再Update进行文件的更新，那么就实现了大家文件同步了！ . 同样的，当你每次想要对文件进行操作时，一定要先执行Update操作（我们称之为“取新”），这样才能保证你编辑的文件是最新版的，不会将其他人的文件覆盖掉。 . 编辑前记得取新！ . 编辑前记得取新！ . 编辑前记得取新！ . 2.1 Update操作 . 右键想要取新的文件/文件夹，或者右键文件夹中的空白处，点击SVN Update即可取新 . 2.2 Commit操作 . 右键想要取新的文件/文件夹，或者右键文件夹中的空白处，点击SVN Commit . 填写上传的内容的备注，勾选你想要上传的文件，点击OK即可上传。 . ",
+    "url": "/docs/help/svn%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.html#%E4%BA%8Csvn%E7%9A%84%E4%BD%BF%E7%94%A8",
+    
+    "relUrl": "/docs/help/svn%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.html#二svn的使用"
+  },"9": {
+    "doc": "保姆式SVN安装和使用教程",
+    "title": "三、项目的SVN路径",
+    "content": "策划文档：svn://47.115.218.13:7003/repository/docs . 美术相关：svn://47.115.218.13:7003/repository/arts . 游戏客户端：svn://47.115.218.13:7003/repository/client . 游戏工程（还没建）：svn://47.115.218.13:7003/repository/src . ",
+    "url": "/docs/help/svn%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.html#%E4%B8%89%E9%A1%B9%E7%9B%AE%E7%9A%84svn%E8%B7%AF%E5%BE%84",
+    
+    "relUrl": "/docs/help/svn%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.html#三项目的svn路径"
+  },"10": {
+    "doc": "关于我们",
+    "title": "关于我们",
+    "content": "一群为爱发电的剑网3同人创作者。 . | 昵称 | 岗位 | 头像 | . | 喻栉 | 策划/程序 | | . | 山峰有露 | 文案策划 | | . | 霁雨醉尘 | 美术 | | . ",
+    "url": "/docs/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC.html",
+    
+    "relUrl": "/docs/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC.html"
+  }
+}

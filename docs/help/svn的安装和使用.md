@@ -15,7 +15,7 @@ Version 1.0
 
 双击打开目录下的svn客户端安装文件
 
-![img](file:///C:\Users\ROYLEE~1\AppData\Local\Temp\ksohtml14692\wps1.jpg) 
+![img](../../img/svn的安装/wps1.jpg) 
 
 第一步：next
 
